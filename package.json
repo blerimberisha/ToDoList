@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blerimberisha/ToDoList/issues"
   },
-  "homepage": "https://github.com/blerimberisha/ToDoList#readme"
+  "homepage": "https://github.com/blerimberisha/ToDoList#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
