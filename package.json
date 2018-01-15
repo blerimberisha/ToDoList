@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Techsperience sene vene",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blerimberisha/ToDoList.git"
+  },
+  "author": "Blerim Berisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blerimberisha/ToDoList/issues"
+  },
+  "homepage": "https://github.com/blerimberisha/ToDoList#readme"
+}
